@@ -23,7 +23,7 @@ Headwind MDM est un excellent choix pour une **souveraineté totale des données
 ### Les atouts de Microsoft Intune (Licence)
 Intune est le standard de l'industrie pour les entreprises modernes. Sa force réside dans la gestion hétérogène (iOS et Android) et surtout dans sa gestion du **BYOD**. Grâce à ses politiques de protection des applications (MAM), il permet de sécuriser les données de l'entreprise sur le téléphone personnel du collaborateur sans avoir à prendre le contrôle total de l'appareil, garantissant ainsi le respect de la vie privée.
 
-**Limites :** Coût récurrent des licences et dépendance au Cloud Microsoft.
+**Limites :** Coût récurrent des licences (~8€ par mois par utilisateur) et dépendance au Cloud Microsoft.
 
 ---
 
